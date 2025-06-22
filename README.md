@@ -63,5 +63,63 @@ To demonstrate real-world applicability, we integrated our best-trained model wi
 **User Interface Screenshot:**  
 ![flaskUI](EP_GAN/images/flaskUI.png)
 
-**Want to use it on local machine**
-"""
+Great! Here's a polished and corrected version of your **README snippet** to help users run your Flask-based **EP-GAN** project **on their local machine**:
+
+---
+
+## 🚀 Run EP-GAN Locally
+
+### ✅ Steps to Get Started
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/plawangshishugit/EP-GAN.git
+   ```
+
+2. **Navigate into the project folder**
+
+   ```bash
+   cd EP-GAN
+   ```
+
+3. **(Optional but recommended) Create and activate a virtual environment**
+
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate     # On Windows
+   source venv/bin/activate  # On Linux/macOS
+   ```
+
+4. **Install dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. **Run the Flask app**
+
+   ```bash
+   python app.py
+   ```
+
+6. **Open your browser and visit:**
+
+   ```
+   http://127.0.0.1:5000
+   ```
+
+---
+
+### 📝 Notes
+
+* Make sure the file `generator_best.pth` is inside the `model/` folder.
+* Uploaded images are enhanced using your trained **EP-GAN (Edge-Preserving GAN)** generator.
+* The output image will appear on the webpage with a download link.
+
+---
+
+### 🎉 Happy Restoring!
+
+Bring clarity to underwater images right from your browser.
+
