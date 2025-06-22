@@ -11,10 +11,10 @@
 Our generator is carefully designed to enhance edge features using a combination of attention mechanisms and feature fusion strategies.
 
 **Block Diagram:**  
-![Enhanced Generator](images/enhance_generator.png)
+![Enhanced Generator](EP_GAN/images/enhance_generator.png)
 
 **Components:**  
-![Generator Components](images/components_of_enhanced_generator.png)
+![Generator Components](EP_GAN/images/components_of_enhanced_generator.png)
 
 
 
@@ -23,7 +23,7 @@ Our generator is carefully designed to enhance edge features using a combination
 To ensure perceptual quality and consistency at various resolutions, we employ a multi-scale discriminator that operates on image inputs at different levels of detail.
 
 **Block Diagram:**  
-![Multiscale Discriminator](images/multiscale_discriminator.png)
+![Multiscale Discriminator](EP_GAN/images/multiscale_discriminator.png)
 
 
 
@@ -34,7 +34,7 @@ To ensure perceptual quality and consistency at various resolutions, we employ a
 We begin our experiment with an analysis of common distortions present in sample images. This helps in understanding the degradation patterns and designing effective enhancement strategies.
 
 **Sample Distortion Analysis:**  
-![Distortion Analysis](images/sample_distortion_analysis.png)
+![Distortion Analysis](EP_GAN/images/sample_distortion_analysis.png)
 
 
 
@@ -43,11 +43,11 @@ We begin our experiment with an analysis of common distortions present in sample
 Our model shows significant improvements in edge clarity and image fidelity after enhancement.
 
 **Final Result – Edge Enhancement:**  
-![Edge Enhancement Result](images/sample_analysis_of_edge_enhancement.png)
-![Final result of edge enhancement](images/final_test_result_of_edge_enhancement.png)
+![Edge Enhancement Result](EP_GAN/images/sample_analysis_of_edge_enhancement.png)
+![Final result of edge enhancement](EP_GAN/images/final_test_result_of_edge_enhancement.png)
 
 📌 **Final Result – PSNR & SSIM:**  
-![Edge Enhancement Result](images/final_test_result_in_terms_of_PSNR_and_SSIM.png)
+![Edge Enhancement Result](EP_GAN/images/final_test_result_in_terms_of_PSNR_and_SSIM.png)
 
 
 
@@ -61,5 +61,7 @@ To demonstrate real-world applicability, we integrated our best-trained model wi
 - Download the enhanced image with a single click
 
 **User Interface Screenshot:**  
-![flaskUI](images/flaskUI.png)
+![flaskUI](EP_GAN/images/flaskUI.png)
 
+**Want to use it on local machine**
+"""
