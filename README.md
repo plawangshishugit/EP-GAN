@@ -63,8 +63,6 @@ To demonstrate real-world applicability, we integrated our best-trained model wi
 **User Interface Screenshot:**  
 ![flaskUI](EP_GAN/images/flaskUI.png)
 
-Great! Here's a polished and corrected version of your **README snippet** to help users run your Flask-based **EP-GAN** project **on their local machine**:
-
 ---
 
 ## 🚀 Run EP-GAN Locally
