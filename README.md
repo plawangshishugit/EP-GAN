@@ -67,17 +67,22 @@ EPGAN/
 ```
 ---
 # 📌**Architecture**
-
+<p align="center">
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/937f9937-afeb-403f-8803-249cff8345b7" />
 <img  width="400" height="700" alt="image"  alt="image" src="https://github.com/user-attachments/assets/9556395d-35a2-4d9b-a6b8-ad8171a20214" />
+</p>
+<p align="center">
 <img width="300" height="500"  alt="image" src="https://github.com/user-attachments/assets/032cb645-83b4-4592-a6a0-8bf438c66c4f" />
 <img  width="300" height="500"  alt="image" src="https://github.com/user-attachments/assets/68af105b-43f9-4b4c-a931-867e33862fdf" />
 <img  width="300" height="500"  alt="image" src="https://github.com/user-attachments/assets/ef1bb7b9-f6ce-48c5-b037-ccd949fa869f" />
-
+  </p>
+  
 ---
 
 # 📌**Sample**
+<p align="center">
 <img width="3376" height="2312" alt="image" src="https://github.com/user-attachments/assets/69ab64e9-89cf-401e-b0ef-f0efae6f3241" />
+</p>
 
 ---
 
