@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Framework-PyTorch-ee4c2c?logo=pytorch" />
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" />
   <img src="https://img.shields.io/badge/License-MIT-green.svg"/>
-  <a href="https://doi.org/10.5281/zenodo.17649194"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.17649194-blue?logo=doi"/></a>
   <img src="https://img.shields.io/badge/Status-Research%20Code-orange"/>
 </p>
 
@@ -23,12 +22,6 @@ This repository provides the official implementation of **EP-GAN**, a deep learn
 The model synergizes **edge-aware priors**, **multi-scale GAN design**, and **feature-consistent learning**, making it suitable for real-world underwater image enhancement.
 
 The full source code is archived under a public DOI for transparency and reproducibility.
-
----
-
-## 📘 **Code DOI**
-
-🔗 **[https://doi.org/10.5281/zenodo.17649194](https://doi.org/10.5281/zenodo.17649194)**
 
 ---
 
