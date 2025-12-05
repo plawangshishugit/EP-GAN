@@ -66,7 +66,7 @@ EPGAN/
 └── README.md
 ```
 ---
-# **Architecture**
+# 📌**Architecture**
 
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/937f9937-afeb-403f-8803-249cff8345b7" />
 <img  width="400" height="700" alt="image"  alt="image" src="https://github.com/user-attachments/assets/9556395d-35a2-4d9b-a6b8-ad8171a20214" />
@@ -76,7 +76,7 @@ EPGAN/
 
 ---
 
-# **Sample**
+# 📌**Sample**
 <img width="3376" height="2312" alt="image" src="https://github.com/user-attachments/assets/69ab64e9-89cf-401e-b0ef-f0efae6f3241" />
 
 ---
